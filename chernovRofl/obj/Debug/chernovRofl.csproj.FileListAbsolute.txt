@@ -1,0 +1,79 @@
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csprojAssemblyReference.cache
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\MainWindow.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\MainPage.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\SalariesPage.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\WorkersPage.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\App.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl_Content.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl_MarkupCompile.cache
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl_MarkupCompile.lref
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\Database1.mdf
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\Database1_log.ldf
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\chernovRofl.exe.config
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\chernovRofl.exe
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\chernovRofl.pdb
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\EntityFramework.dll
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\EntityFramework.xml
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wuke\chernovRofl\chernovRofl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\MainWindow.baml
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\MainPage.baml
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\SalariesPage.baml
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\WorkersPage.baml
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.g.resources
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.Properties.Resources.resources
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.GenerateResource.cache
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.CoreCompileInputs.cache
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.CopyComplete
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.exe
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\chernovRofl.pdb
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditSalaries.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditWorkers.g.cs
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditSalaries.baml
+C:\Wuke\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditWorkers.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\Database1.mdf
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\Database1_log.ldf
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\chernovRofl.exe.config
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\chernovRofl.exe
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\chernovRofl.pdb
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\EntityFramework.dll
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\EntityFramework.xml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\ru\EntityFramework.resources.dll
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.AssemblyReference.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.SuggestedBindingRedirects.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\MainWindow.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditSalaries.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditWorkers.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\MainPage.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\SalariesPage.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\WorkersPage.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\App.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl_Content.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl_MarkupCompile.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl_MarkupCompile.lref
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\MainWindow.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditSalaries.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\AddEditWorkers.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\MainPage.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\SalariesPage.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\WorkersPage.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.g.resources
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.Properties.Resources.resources
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.GenerateResource.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.CoreCompileInputs.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.CopyComplete
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.exe
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.pdb
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\Otchet1Page.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\chernovRofl.csproj.ResolveComReference.cache
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\Otchet1Page.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\PDFPage.g.cs
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\obj\Debug\Pages\PDFPage.baml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\itextsharp.dll
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\itextsharp.xml
+D:\Otchet\3kurs\крч рофлян завезли\проект\chernovRofl\chernovRofl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

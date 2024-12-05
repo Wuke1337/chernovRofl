@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="Workers">
+      <EntityTypeMapping TypeName="Database1Model.Workers">
+        <MappingFragment StoreEntitySet="Workers">
+          <ScalarProperty Name="ServID" ColumnName="ServID" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="DataB" ColumnName="DataB" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Salaries">
+      <EntityTypeMapping TypeName="Database1Model.Salaries">
+        <MappingFragment StoreEntitySet="Salaries">
+          <ScalarProperty Name="ProcPay" ColumnName="ProcPay" />
+          <ScalarProperty Name="DaysIllnes" ColumnName="DaysIllnes" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="ServID" ColumnName="ServID" />
+          <ScalarProperty Name="RecordID" ColumnName="RecordID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

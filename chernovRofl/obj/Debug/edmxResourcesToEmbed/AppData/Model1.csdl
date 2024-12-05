@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Workers">
+    <Key>
+      <PropertyRef Name="ServID" />
+    </Key>
+    <Property Name="ServID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DataB" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Salaries" Relationship="Database1Model.FK_Salaries_Workers" FromRole="Workers" ToRole="Salaries" />
+  </EntityType>
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Workers" EntityType="Self.Workers" />
+    <EntitySet Name="Salaries" EntityType="Database1Model.Salaries" />
+    <AssociationSet Name="FK_Salaries_Workers" Association="Database1Model.FK_Salaries_Workers">
+      <End Role="Workers" EntitySet="Workers" />
+      <End Role="Salaries" EntitySet="Salaries" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Salaries">
+    <Key>
+      <PropertyRef Name="RecordID" />
+    </Key>
+    <Property Name="RecordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ServID" Type="Int32" Nullable="false" />
+    <Property Name="Month" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Salary" Type="Decimal" Nullable="false" Precision="12" Scale="2" />
+    <Property Name="DaysIllnes" Type="Int32" Nullable="false" />
+    <Property Name="ProcPay" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Workers" Relationship="Database1Model.FK_Salaries_Workers" FromRole="Salaries" ToRole="Workers" />
+  </EntityType>
+  <Association Name="FK_Salaries_Workers">
+    <End Type="Database1Model.Workers" Role="Workers" Multiplicity="1" />
+    <End Type="Database1Model.Salaries" Role="Salaries" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Workers">
+        <PropertyRef Name="ServID" />
+      </Principal>
+      <Dependent Role="Salaries">
+        <PropertyRef Name="ServID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
